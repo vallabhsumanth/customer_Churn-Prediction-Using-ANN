@@ -21,7 +21,3 @@ Experimented with different architectures to optimize model performance.
 Split the dataset into training and testing sets (e.g., 80% training, 20% testing).
 Trained the ANN model using TensorFlow and Keras.
 Utilized techniques like batch normalization and dropout to prevent overfitting.
-
-## Training Graph
-
-
